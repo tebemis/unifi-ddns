@@ -37,3 +37,4 @@ You must have a Cloudflare account and your domain must be configured to point t
 - On UniFi devices older than the UDM, the `Server` value should be configured as seen below, with no path suffix: `<worker-name>.<worker-subdomain>.workers.dev`
 - If you receive a log message on your Unifi device like `inadyn[2173778]: Failed resolving hostname https: Name or service not known`, remove `https://` from the `Server` field.  
 
+.
